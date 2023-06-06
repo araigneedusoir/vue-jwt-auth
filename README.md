@@ -1,6 +1,6 @@
-# vue-project
+# vue-jwt-auth
 
-This template can be used as an example of JWT authentification in Vue.
+This template can be used as an example of JWT authentification in Vue in future.
 
 ## Recommended IDE Setup
 
